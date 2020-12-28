@@ -123,7 +123,7 @@ body {
     height: 40px;
     border-radius: 50%;
     position: relative;
-    background: url(/images/20200911_084431.jpg);
+    background: url(images/20200911_084431.jpg);
     background-size: contain;
     border: 1px solid #ccc;
 }
@@ -176,7 +176,7 @@ body {
     height: 60px;
     border-radius: 50%;
     position: relative;
-    background: url(/images/20200911_084431.jpg);
+    background: url(images/20200911_084431.jpg);
     background-size: contain;
     cursor: pointer;
 }
@@ -525,28 +525,28 @@ body {
 }
 @keyframes slides {
     0% {
-        background: url(/images/slider-1.jpg);
+        background: url(images/slider-1.jpg);
     }
     15% {
-        background: url(/images/slider-2.jpg);
+        background: url(images/slider-2.jpg);
     }
     30% {
-        background: url(/images/slider-3.jpg);
+        background: url(images/slider-3.jpg);
     }
     45% {
-        background: url(/images/slider-4.jpg);
+        background: url(images/slider-4.jpg);
     }
     60% {
-        background: url(/images/slider-5.jpg);
+        background: url(images/slider-5.jpg);
     }
     75% {
-        background: url(/images/slider-6.jpg);
+        background: url(images/slider-6.jpg);
     }
     90% {
-        background: url(/images/slider-7.jpg);
+        background: url(images/slider-7.jpg);
     }
     100% {
-        background: url(/images/slider-8.jpg);
+        background: url(images/slider-8.jpg);
     }
 }
 /*-------------------------------
